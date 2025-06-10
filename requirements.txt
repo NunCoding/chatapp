@@ -1,1 +1,1 @@
-# leave empty or add dependencies like requests, pandas, etc.
+streamlit
