@@ -3,7 +3,7 @@ import requests
 import json
 
 # ========== CONFIG ==========
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "deepseek/deepseek-r1-0528:free"
 
