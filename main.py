@@ -3,12 +3,12 @@ import requests
 import json
 
 # ========== CONFIG ==========
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "deepseek/deepseek-r1-0528:free"
 
 # ========== PAGE SETUP ==========
-st.set_page_config(page_title="DeepSeek Chat", page_icon="💬")
+st.set_page_config(page_title="Chat App", page_icon="💬")
 st.title("💬 DeepSeek Chat with Real-time Streaming")
 
 # ========== SESSION STATE ==========
